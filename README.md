@@ -39,22 +39,22 @@ This project turns raw fashion sales data into actionable insights through data 
 ## Key Insights
 
 • Total Sales By Segment(Pie-chart)
-Which segment contributed more sales B2B or B2C.
+-Which segment contributed more sales B2B or B2C.
 
 • Total Unit Price Vs unit Sold By Products(Scatter Plot)
-Based upon the unit price which products sold more.
+-Based upon the unit price which products sold more.
 
 • Total Sales By Year (Line Chart)
-Identified which year had high sales.
+-Identified which year had high sales.
 
 • Total Sales By city(Bubble Map)
-Finded out  which city has high sales (Ex.Mumbai,Ahamedabad,etc..)
+-Finded out  which city has high sales (Ex.Mumbai,Ahamedabad,etc..)
 
 • Total Sales By Product Category(clustered column chart)
-Which product category has high sales Ex.T-shirt.
+-Which product category has high sales Ex.T-shirt.
 
 • Total Sales By Product category and Segment(clustered column chart)
-Total sales distribution across product categories and customer segments highlights which combinations drive the highest revenue.
+-Total sales distribution across product categories and customer segments highlights which combinations drive the highest revenue.
 
 
 ## Slicers and KPI cards
