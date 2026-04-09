@@ -1,4 +1,4 @@
-# Snitch-Fashion-Sales-Analysis-Using-Power-BI
+# Snitch-Fashion-Sales-Analysis-Using-Excel and Power-BI
 
 ## Project Overview
 
